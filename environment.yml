@@ -1,0 +1,8 @@
+name: AC2025_tutorial_RMT
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - jupyterlab
+prefix: /Users/mannelli/miniforge3/envs/AC2025_tutorial_RMT
