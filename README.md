@@ -1,4 +1,4 @@
-# AC2025 Tutorial on Random Matrix Theory
+# AC2025 Tutorial on PCA and Random Matrix Theory
 
 - Lecture notes on [Overleaf](https://www.overleaf.com/project/68765c8fc6134abcdad4775e).
 - Reading material:
